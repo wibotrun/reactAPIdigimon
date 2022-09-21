@@ -1,0 +1,27 @@
+.cartaContainer{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 5% auto ;
+    width: 600px;
+    padding: 10px;
+  }
+  .imagenDigimon{
+    width: 250px;
+  }
+  .divInfo{
+    border: 1px grey solid;
+    width: 300px;
+    border-radius: 5%;
+  }
+  .btnBuscar{
+    margin: 5px;
+    background-color: rgb(85, 165, 192);
+    color: white;
+  }
+  #inputBusqueda{
+height: 20px;
+    text-align: center;
+    border: 1px solid grey;
+  }
